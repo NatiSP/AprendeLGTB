@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Aprende LGTB</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Opciones</string>
+    <string name="BotonComenzar">Comenzar</string>
+    <string name="BotonOpciones">Créditos</string>
+    <string name="title_activity_lista_de_temas">Lista De Temas</string>
+    <string name="title_activity_capitulo_uno">Capitulo Uno</string>
+    <string name="BotonPerfil">Tu Perfil</string>
+    <string name="title_activity_creditos">Creditos</string>
+    <string name="title_activity_creacion_de_personaje">Creación del protagonista</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_perfil">Tu Perfil</string>
+    <string name="capitulo_1_historia_1">        ¡Hola! Permíteme que me presente.
+	    Mi nombre es %1$s, soy un %2$s y soy %3$s.
+	    Tengo 11 meses pero pronto cumpliré un año.\n\n
+	    Nací, según me dijo mi papá, en un callejón 
+	    de la ciudad. Fue él quien me 
+	    encontró y me adoptó cuando era un 
+	    cachorro.\n\n
+	    Ahora que ya soy mayor, pronto empezaré 
+	    a ir al colegio. Yo y todos mis amigos 
+	    estamos bastante nerviosos, pero 
+	    seguro que será muy divertido.\n\n
+	    ¿Quieres venir y conocernos?</string>
+    <string name="capitulo_2_historia_1">        ¡Hola de nuevo, soy %1$s otra vez!\n\n
+        Hace ya unos cuantos días que han empezado las clases.\n
+        He conocido a un montón de nuevos amigos, tanto perros como gatos. 
+        Son todos muy simpáticos, aunque con algunos juego más que con otros.\n\n
+        Hoy la profesora nos llevará de excursión al campo. La clase de mi hermano, que está en segundo, también irá.\n
+        Es la primera vez que voy al campo, pero 
+        yo creo que nos lo vamos a pasar bien, ¡hay un montón de cosas entretenidas!\n     </string>
+    <string name="capitulo_2_historia_2">        La excursión está siendo muy divertida, 
+        es muy entretenido ver la naturaleza y jugar con los amigos.\n\n
+        Mi hermano y yo vimos un pájaro muy curioso y raro y lo seguimos para verlo de cerca.
+        Estuvimos siguiéndolo y acechándolo durante unos 15 minutos.\n
+        Pero nos entusiasmamos tanto que nos distrajimos, y cuando nos dimos cuenta, ¡nos habíamos perdido!\n
+        -¡Nooo! ¡Nos hemos perdido! -dije yo.\n
+        -Pues sí, parece que sí -dijo mi hermano Kiko.\n
+        -¿Y ahora qué hacemos?\n
+        -No te preocupes, creo que recuerdo el camino –dijo Kiko olisqueando el suelo unos segundos.\n
+        -Bueno, pues te sigo entonces.\n
+        Normalmente mi hermano sabe orientarse mejor que yo, así que me fío de él.\n\n
+        Ah, ¿no conocíais a Kiko? No os he hablado de él, ¿verdad? Tiene 3 meses más que yo, y también es adoptado. 
+        Él nació siendo hembra, pero desde pequeño se siente chico, y respetamos su identidad.
+        Es muy bueno conmigo y me defiende de los perros y gatos malos.\n\n
+        Pero bueno, a lo que iba, todavía estamos perdidos. ¿Nos echas una mano?\n </string>
+    <string name="capitulo_3_historia_1">        Uf... menos mal que hemos podido volver con los demás.
+        Nuestros profes ya estaban empezando a preocuparse, e iban a salir en nuestra búsqueda.\n
+        A la tarde regresamos a casa sanos y salvos.\n\n
+        Por esos días estaba muy emocionado porque se acercaba la fecha de mi cumpleaños. Celebraríamos mi primer año con una gran fiesta. Todos los compañeros de clase estaban invitados. Sería una fiesta genial.\n\n
+        Unos cuantos días antes me preguntaron:\n
+        -Oye, %1$s, ¿qué quieres que te regale por tu cumple? -me preguntó Maya.\n
+        -Umh, pues no sé, ¿por qué lo preguntas?\n
+        -Bueno, sólo por saber. ¿Prefieres un coche teledirigido o una casa de muñecas?\n
+        -Mmh... pues...\n</string>
+    <string name="capitulo_3_historia_2">        -Pues, %1$s -dije.\n
+        -Oh, guay... Bueno, ¡pero eso no quiere decir que te lo vaya a regalar! ¿eh? ¡Mi regalo es una sorpresa!\n
+        -Si... ya...\n\n
+        Al final, en la fiesta, me regaló %1$s. ¡Si se le notaba a kilómetros!\n
+        Mientras jugaba a la pelota con mis amigos, Tobi, Miki y Maya saltaban a la comba. 
+        Cuando les preguntamos si podíamos jugar con ellos, ¡nos dijeron que éramos muchos!\n
+        Al final nos dejaron y pudimos jugar todos juntos, ¡cuanta más gente, mejor!\n
+        Fue un cumpleaños genial. ¡Espero que el próximo sea igual de estupendo!\n</string>
+    <string name="capitulo_4_historia_1">        Meses después de mi cumpleaños, todo seguía igual que siempre.\n
+        Una tarde, mientras regresaba a casa con Cotufa, después de haber estado jugando con mis buenos amigos Kira y Maxi, con los que pasaba muy buenos ratos, Cotufa me dijo:\n
+		-Oye, %1$s, me han dicho que tienes pareja.\n
+		-Sí, ¿porqué lo preguntas?\n
+		-Bueno, tengo curiosidad... ¿Y quién es: Kira o Maxi?\n
+		-Jajaja, ¡qué cotilla eres Cotufa!\n
+		-¡Sólo tengo curiosidad! Va, dime, dime.\n
+		-Pues...\n</string>
+    <string name="capitulo_4_historia_2">        Ya en casa, merendando con Cotufa, me pregunta:\n
+	-Y, ¿por qué te gusta %1$s?\n
+	-Por muchas cosas, Cotufa. Me gusta, es amable, sabe escuchar, es alguien con quien me lo paso bien...\n
+
+Cotufa, curioso, quiere saber más:\n
+-Entonces, ¿no te gustan %2$s, %3$s?\n
+
+</string>
+
+     <string name="capitulo_4_historia_2B">
+         -Me gustan %1$s. -respondí.\n\n
+         Cuando Kiko entra en la cocina y abre la nevera para servirse un vaso de leche, Cotufa le pregunta:\n
+-Oye, Kiko, ¿tu sabías que a %2$s le gusta %3$s?\n
+-Claro.\n
+-Y a ti, Kiko, ¿te gustan los chicos o las chicas?\n
+-Mira, Cotufa, me gustan ambos.\n
+-Entonces, ¿tú tienes novio o novia?\n
+En ese momento, Kiko se sonroja y sale de la cocina.\n
+¡No le ha gustado nada esa pregunta! Ay, este Cotufa...\n</string>
+    <string name="capitulo_5_historia_1">    	Hoy la profesora nos ha encargado traer para mañana un dibujo de nuestro árbol familiar, porque en clase hablaremos de nuestras familias.
+    	Para esa tarea tendré que pedir ayuda mis papás.\n
+    	-Papá, papá. Tengo que hacer un dibujo de mi árbol familiar, ¿me puedes ayudar?\n
+    	-Ah, vale, vale. Pues abajo del todo tendrías que ponerte a tí y al lado a tu hermano, ¿no?\n
+    	-Sí, y encima tendría que ponerte a tí y a papi Canelo, ¿no?\n
+    	-Exacto. Después encima de mí foto tendrías que poner a mis padres, o sea, tus abuelos, Sheila y Wolf. 
+    	Los padres de papi Canelo son Lolo y Chiqui.\n
+    	-Y al lado de papi poner al tío Arthas.\n
+    	-Sí.\n
+    	-Vale, gracias papá. Ya haré el dibujo más tarde.\n
+    	-¿Cómo que más tarde? No lo dejes; hazlo ahora, que luego te olvidas.\n
+    	-Jo, vaaaale...\n</string>
+    <string name="capitulo_5_historia_2">        Esta mañana hemos organizado una exposición con los árboles familiares, 
+        y la profesora nos ha pedido que hagamos una lista con todos los tipos de familia que aparecen.\n
+        Con dos papás está nuestra familia. Con sólo una mamá está la familia de Kira y su hermano Pipo.\n
+        Con dos mamás aparece la de Maya, con un papá y una mamá hay dos familias: la de Cotufa y la de Tara;\n
+        con un papá aparece el árbol de la familia de Cora, mientras que Maxi vive con sus abuelos. ¡Hay gran variedad de familias!\n</string>
+    <string name="capitulo_6_historia_1">Yo soy %1$s. Un %2$s. Y me identifico como %3$s. \n
+Voy al mismo colegio que mi hermano Kiko, que es tres meses mayor. Vivimos con nuestros padres adoptivos Canelo y Teo, y nos lo pasamos genial en el colegio, con nuestros amigos.\n
+Me gustan %4$s y tengo una pareja que se llama %5$s, sin embargo a mi hermano Kiko, que es transexual, 
+le gustan tanto los chicos como las chicas; y Cotufa, mi amigo, es un cotilla incorregible, 
+aunque creo que eso ya lo habeis visto por vuestra cuenta.\n 
+Y esta es nuestra historia.\n  </string>
+    <string name="title_activity_historia">Historia</string>
+    <string name="title_activity_eleccion">Eleccion</string>
+    <string name="puzzle_size_x_y">{0} x {1}</string>
+    <string name="finished_type_expert_puzzle_in_n_moves">Finished {0} puzzle {1,choice,0#|1# (expert mode)"} in {2} {2,choice,0#moves|1#move|1&lt;moves}.</string>
+    <string name="type_expert_puzzle_n_moves_so_far">{0} puzzle.\n{2} {2,choice,0#moves|1#move|1&lt;moves} so far.{1,choice,0#|1#\nExpert mode is on.}</string>
+    <string name="message_stats_best_avg_plays">{0}\n\nBest: {1} {1,choice,0#moves|1#move|1&lt;moves}\nAverage: {2,number,0.##} moves\nPlays: {3}</string>
+    <string name="label_ok">OK</string>
+    <string name="label_show_numbers_none">None</string>
+    <string name="label_show_numbers_some">Some</string>
+    <string name="label_show_numbers_all">All</string>
+    <string name="title_stats">Stats</string>
+    <string name="title_new_record">New record!</string>
+    <string name="title_solved">Solved!</string>
+    <string name="title_select_tiling">Select tiling</string>
+    <string name="title_show_numbers">Show numbers</string>
+    <string name="menu_new_image">New image</string>
+    <string name="menu_select_image">Select image</string>
+    <string name="menu_take_photo">Take photo</string>
+    <string name="menu_scramble">Scramble</string>
+    <string name="menu_change_tiling">Change tiling</string>
+    <string name="menu_show_numbers">Show numbers: {0}</string>
+    <string name="menu_stats">Stats</string>
+    <string name="menu_about">About</string>
+    <string name="title_about">n Tile Puzzle</string>
+    <string name="content_about"><a href="http://marian.schedenig.name/projects/ntilepuzzle/">http://marian.schedenig.name/projects/ntilepuzzle/</a>\nCopyright 2013 Marian Schedenig\n\nCode released under the GNU General Public License (GPL).\n\nImages are excluded from the GNU GPL.</string>
+    <string name="error_could_not_load_image">Could not load image.</string>
+    <string name="error_could_not_load_image_error">Could not load image: {0}</string>
+    <string name="error_could_not_create_directory_to_store_photo">Could not create directory to store photo.</string>
+    <string name="toast_disabled_expert_mode">Turning on numbers has disabled expert mode.</string>
+    <string name="toast_not_enabled_expert_mode">Numbers are off. Expert mode will be enabled when the puzzle is scrambled.</string>
+    <string name="title_activity_elegir_juguete">Elegir Juguete</string>
+
+</resources>

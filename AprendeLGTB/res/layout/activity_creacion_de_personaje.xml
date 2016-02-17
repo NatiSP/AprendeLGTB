@@ -1,0 +1,149 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:background="#ffffffff"
+    tools:context="com.playical.aprendelgtb.actividades.CreacionDePersonaje">
+
+    <!-- The primary full-screen view. This can be replaced with whatever view
+         is needed to present your content, e.g. VideoView, SurfaceView,
+         TextureView, etc. -->
+
+    <!-- This FrameLayout insets its children based on system windows using
+         android:fitsSystemWindows. -->
+
+   <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <Button
+            android:id="@+id/Aceptar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="28dp"
+            android:layout_toLeftOf="@+id/rightButton"
+            android:layout_toRightOf="@+id/leftButton"
+            android:text="Aceptar"
+            android:textColor="#ff000000" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="301dp"
+            android:layout_height="301dp"
+            android:layout_alignBottom="@+id/imageIcon"
+            android:layout_alignParentRight="true" />
+
+        <ImageButton
+            android:id="@+id/imageIcon"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_above="@+id/imageButtonMas"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="50dp"
+            android:background="@drawable/gato_1" />
+
+        <TextView
+            android:id="@+id/textViewMas"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/textViewFem"
+            android:layout_alignBottom="@+id/textViewFem"
+            android:layout_toRightOf="@+id/imageButtonMas"
+            android:text="Chico" />
+
+        <TextView
+            android:id="@+id/textViewFem"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/imageButtonFem"
+            android:layout_marginTop="14dp"
+            android:layout_toLeftOf="@+id/imageButtonFem"
+            android:text="Chica" />
+
+        <ImageButton
+            android:id="@+id/leftButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/iconarrowleft" />
+
+        <ImageButton
+            android:id="@+id/rightButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/iconarrowright" />
+
+        <ImageButton
+            android:id="@+id/imageButtonMas"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_above="@+id/Aceptar"
+            android:layout_toLeftOf="@+id/rightButton"
+            android:background="@drawable/genero_masculino" />
+
+        <ImageButton
+            android:id="@+id/imageButtonFem"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_above="@+id/Aceptar"
+            android:layout_alignLeft="@+id/Aceptar"
+            android:background="@drawable/genero_femenino" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center_vertical|left"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Crea a tu personaje"
+                android:layout_marginLeft="5dp"
+                android:layout_marginStart="5dp"
+                android:textColor="#000000"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp" >
+
+                <TextView
+                    android:id="@+id/textView12"
+                    android:layout_width="wrap_content"
+                    android:layout_height="30dp"
+                    android:layout_marginEnd="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginStart="5dp"
+                    android:text="Nombre:"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textColor="#ff000000"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/editUser"
+                    android:layout_width="fill_parent"
+                    android:layout_height="match_parent"
+                    android:hint="Nombre"
+                    android:inputType="text"
+                    android:textColor="#ff000000"
+                    android:textStyle="bold" >
+
+                    <requestFocus />
+                </EditText>
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</FrameLayout>
